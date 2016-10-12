@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+   git builds the initial meta data for tracking files in the directory
+   you need to add files to tell git which files to start tracking
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+   this is something i wonder as well
+
