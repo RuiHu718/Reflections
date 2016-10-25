@@ -6,3 +6,6 @@ How is the staging area different from the working directory and the repository?
    this is something i wonder as well
 
 well, let's try something new
+
+I think it makes sense to slow down and really understand what is going on here
+
